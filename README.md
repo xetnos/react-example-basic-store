@@ -1,5 +1,6 @@
 # react-example-basic-store
-A very basic store using 
+
+A very basic store using React and the JS Buy SDK based on SHopify API.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
